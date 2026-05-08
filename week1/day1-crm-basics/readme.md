@@ -4,6 +4,17 @@ CRM stands for Customer Relationship Management. It is a system used by organiza
 # Why Companies Use Salesforce ?
 Companies use Salesforce because it is a cloud-based CRM platform that helps manage customer data, automate business processes, track sales, and improve communication. It increases productivity and helps organizations provide better customer service.
 
+## Business Flow  
+Lead-->Contact-->Oppurtunity-->Customer  
+### Lead:
+This is the starting point. A person or business who has shown some interest in what your'e selling.They are "potential" but unverified.  
+### Contact:
+At this stage ,you reach out to the lead.your'e introducing yourself,asking questions,and determining if your product actually meet their needs.  
+### Oppurtunity:
+This is the "breakthrough" moment.the contact has confirmed they have a problem you can solve and the budget to pay for it.you are now actively negotiating or providing a proposal.
+### Customer:
+Success!The deal is closed,the contract is signed,and the individual has officially purchased your product or service.
+
 # Key Concept
 
 ## Acount
