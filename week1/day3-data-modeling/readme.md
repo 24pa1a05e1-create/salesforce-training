@@ -94,11 +94,15 @@ Structured enterprise data is the backbone of any successful organization. Witho
 
 ## **Learning Outcomes**
 
-By completing this assignment, the following learning outcomes were achieved:
+Through this task, I learned:
 
-* Mastered the foundational vocabulary of relational databases and CRM platforms (App, Object, Record, Field).  
-* Gained the ability to conceptualize and map out real-world entities into a functional data model (ERD).  
-* Learned how to establish appropriate data relationships (One-to-Many, Many-to-Many).  
-* Acquired practical skills in automating data entry using Formula Fields.  
-* Understood how to enforce data hygiene and integrity using Validation Rules.  
-* Recognized the broader business value of maintaining structured, well-architected enterprise data.
+- How Salesforce stores business data
+- Difference between App, Object, Record, and Field
+- Importance of relationships in enterprise systems
+- Difference between Formula Fields and Validation Rules
+- How no-code business logic works in Salesforce
+- Why structured data is important for organizations
+- ---
+# Screenshots
+![](https://github.com/24pa1a05e1-create/salesforce-training/blob/main/week1/day3-data-modeling/Screenshot%202026-05-11%20202348.png)
+![](https://github.com/24pa1a05e1-create/salesforce-training/blob/main/week1/day3-data-modeling/Screenshot%202026-05-11%20202406.png)
