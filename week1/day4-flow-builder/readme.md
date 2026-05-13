@@ -192,3 +192,5 @@ Through this task, I learned:
 ---
 
 # Screenshots
+![](https://github.com/24pa1a05e1-create/salesforce-training/blob/main/week1/day4-flow-builder/Screenshot%202026-05-13%20232533.png)
+![](https://github.com/24pa1a05e1-create/salesforce-training/blob/main/week1/day4-flow-builder/Screenshot%202026-05-13%20232554.png)
