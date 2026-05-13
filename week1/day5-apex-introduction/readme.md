@@ -253,3 +253,5 @@ Through this task, I learned:
 ---
 
 # Screenshots
+![](https://github.com/24pa1a05e1-create/salesforce-training/blob/main/week1/day5-apex-introduction/Screenshot%202026-05-14%20000407.png)
+![](https://github.com/24pa1a05e1-create/salesforce-training/blob/main/week1/day5-apex-introduction/Screenshot%202026-05-14%20000446.png)
