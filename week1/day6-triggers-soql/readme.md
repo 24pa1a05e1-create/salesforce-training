@@ -59,5 +59,7 @@ An Apex Trigger is a piece of Apex code that executes automatically when records
 Enterprise systems react automatically to data changes to improve efficiency, accuracy, and productivity. Automation helps organizations reduce manual work, maintain consistent data, send instant notifications, and ensure business processes happen quickly without human intervention.
 ---
 ## Screenshots
+
+
 ![](https://github.com/24pa1a05e1-create/salesforce-training/blob/main/week1/day6-triggers-soql/day6-database%20%26%20net-basics.png)
 ![](https://github.com/24pa1a05e1-create/salesforce-training/blob/main/week1/day6-triggers-soql/day6-Apex%20Triggers.png)
